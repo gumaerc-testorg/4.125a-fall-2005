@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on Selected assignments from the class
   A Private Place Amongst Scholars.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-125a-architecture-studio-building-in-landscapes-fall-2005/3645e28a6ba5a7353b1e69bd62c67945_assn3.pdf
+file: /media/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/3645e28a6ba5a7353b1e69bd62c67945_assn3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn3.pdf
 uid: 3645e28a-6ba5-a735-3b1e-69bd62c67945

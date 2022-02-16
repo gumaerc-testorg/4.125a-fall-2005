@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
 title: Jenna Fizel
 uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
@@ -8,7 +12,7 @@ uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 
 Jenna Fizel
 -----------
-{{< image-gallery id="6ee1ca07-072f-8a7f-5815-1333a87a1cbc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="6ee1ca07-072f-8a7f-5815-1333a87a1cbc_nanogallery2" baseUrl="/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="a373b6448aff1867490edbc050ede6a5_fizel1.jpg" data-ngdesc="All the work of the semester is presented at the final review. Image courtesy of MIT OCW." text="All the work of the semester is presented at the final review." >}}
 {{< image-gallery-item href="9dc806fd3532dcad2ef6dcee95f40e09_fizel2.jpg" data-ngdesc="A model from the quarry project. Image courtesy of MIT OCW." text="A model from the quarry project." >}}
 {{< image-gallery-item href="4a4897f0e4744b259ebed4c88e1ca591_fizel3.jpg" data-ngdesc="A junk model, made from found objects, showing how the space might work. Image courtesy of MIT OCW." text="A junk model, made from found objects, showing how the space might work." >}}

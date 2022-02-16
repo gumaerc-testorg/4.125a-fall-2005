@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
 title: Timothy Koch
 uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
@@ -8,7 +12,7 @@ uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 
 Timothy Koch
 ------------
-{{< image-gallery id="29c7d6cc-ad5b-72a9-1a47-4b869e37c707_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="29c7d6cc-ad5b-72a9-1a47-4b869e37c707_nanogallery2" baseUrl="/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="bcca3fdf4f97d52d3fb1c10972ac31fe_koch1.jpg" data-ngdesc="The final review layout, including models and drawings from throughout the semester. Image courtesy of MIT OCW." text="The final review layout, including models and drawings from throughout the semester." >}}
 {{< image-gallery-item href="7d36ed2079e04cb3943365d036ecebf7_koch2.jpg" data-ngdesc="Sections of the final project. Image courtesy of MIT OCW." text="Sections of the final project." >}}
 {{< image-gallery-item href="e15d9e75147214cb7e25d8a701001209_koch3.jpg" data-ngdesc="A site study for the final project. Image courtesy of MIT OCW." text="A site study for the final project." >}}

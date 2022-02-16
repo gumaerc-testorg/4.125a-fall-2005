@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
 title: Ricardo Davila
 uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
@@ -8,7 +12,7 @@ uid: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
 
 Ricardo Davila
 --------------
-{{< image-gallery id="0d78af57-d4a5-e3fe-941f-443cf19e1d7e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="0d78af57-d4a5-e3fe-941f-443cf19e1d7e_nanogallery2" baseUrl="/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="cd6e5ebc458122f3214c661b80bce098_davila1.jpg" data-ngdesc="A junk model, made from found objects, starts to define the space. Image courtesy of MIT OCW." text="A junk model, made from found objects, starts to define the space." >}}
 {{< image-gallery-item href="32cc3c517fa8afa827776ad71b980e63_davila2.jpg" data-ngdesc="A second model showing a more definite arrangment. Image courtesy of MIT OCW." text="A second model showing a more definite arrangment." >}}
 {{< image-gallery-item href="f2ef9566197d9124f08d616dc333c00a_davila3.jpg" data-ngdesc="Program spaces start to take form. Image courtesy of MIT OCW." text="Program spaces start to take form." >}}

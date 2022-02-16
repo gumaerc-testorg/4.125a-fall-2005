@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
 ---
@@ -8,7 +11,7 @@ One of the projects of the studio this semester was the designing and building o
 
 Homeless Shelter Project
 ------------------------
-{{< image-gallery id="208f6e88-a0cc-4592-832f-e3566d1ecc4d_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
+{{< image-gallery id="208f6e88-a0cc-4592-832f-e3566d1ecc4d_nanogallery2" baseUrl="/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/" >}}
 {{< image-gallery-item href="5bcea4d8701e61dbe0ad8863d4d6acda_1.jpg" data-ngdesc="Celina Balderas puts the finishing touches on her shelter. Image courtesy of Donna Coveney." text="Celina Balderas puts the finishing touches on her shelter." >}}
 {{< image-gallery-item href="7acc12d848c1a72c83bc85169fe4562a_2.jpg" data-ngdesc="Marisa Cheng and Celina Balderas show Professor Jan Wampler how their portable homeless shelter operates. Image courtesy of Donna Coveney." text="Marisa Cheng and Celina Balderas show Professor Jan Wampler how their portable homeless shelter operates." >}}
 {{< image-gallery-item href="8db504bf232cad94ba2f84ed2348ade2_3.jpg" data-ngdesc="Andrea Urmanita folds up the portable homeless shelter that her team made for the class. Image courtesy of Donna Coveney." text="Andrea Urmanita folds up the portable homeless shelter that her team made for the class." >}}
