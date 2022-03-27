@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
+parent_uid: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
 resourcetype: Image
 title: koch6.jpg
 uid: 33f99413-6f4b-d422-0930-cfc8270bd6fc

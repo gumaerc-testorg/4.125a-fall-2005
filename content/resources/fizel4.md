@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
+parent_uid: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
 resourcetype: Image
 title: fizel4.jpg
 uid: 09fd9862-3c77-7780-cf49-d80af8f92200
