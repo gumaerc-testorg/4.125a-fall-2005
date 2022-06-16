@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A complete set of problem statements.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -35,7 +36,7 @@ Performance Place
 Clues / Sites / References / Sketch Model
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn1))
+({{% resource_link 6c4f73df-7d63-5525-5183-3e89f13c3a40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ Clues / Sites / References / Sketch Model
 A Place for the Homeless
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn2))
+({{% resource_link 2e34049b-4c14-76de-2f96-f891965b8472 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +60,7 @@ A Place for the Homeless
 A Private Place Amongst Scholars, part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn3))
+({{% resource_link 3645e28a-6ba5-a735-3b1e-69bd62c67945 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ A Private Place Amongst Scholars, part 1
 A Private Place Amongst Scholars, part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn4))
+({{% resource_link 4450f3ce-4460-dc5e-3bd3-3e3263138de7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +84,7 @@ A Private Place Amongst Scholars, part 2
 A Gathering Place for Scholars, part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn5))
+({{% resource_link 09d20b40-06d2-2655-dc71-948bed2bd5e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +96,7 @@ A Gathering Place for Scholars, part 1
 A Gathering Place for Scholars, part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn6))
+({{% resource_link 3cacfb94-8391-0a7e-dd42-3305079dade6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ A Gathering Place for Scholars, part 2
 A Gathering Place for Scholars, part 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn7))
+({{% resource_link ffb2c5da-f055-7072-2396-d251e536a28d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +120,7 @@ A Gathering Place for Scholars, part 3
 A Gathering Place for Scholars, part 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn8))
+({{% resource_link f53fbed5-cc66-1a99-458c-c943f7a42990 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +132,7 @@ A Gathering Place for Scholars, part 4
 A Gathering Place for Scholars, part 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/assn9))
+({{% resource_link 36a14637-052f-5984-dd5e-f1cd759a851d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
