@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The final model showing how the project occupies the bridge.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: davila5.jpg
 uid: fce100b2-e146-48bc-536f-b6697739db12
 ---
 The final model showing how the project occupies the bridge. Image courtesy of MIT OCW.
-

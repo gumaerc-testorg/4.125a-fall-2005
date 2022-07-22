@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The second floor plan.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: davila6.jpg
 uid: 9c91dcb8-3d89-da74-58b0-716db009ddaf
 ---
 The second floor plan. Image courtesy of MIT OCW.
-

@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: All the work of the semester is presented at the final review.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fizel1.jpg
 uid: a373b644-8aff-1867-490e-dbc050ede6a5
 ---
 All the work of the semester is presented at the final review. Image courtesy of MIT OCW.
-

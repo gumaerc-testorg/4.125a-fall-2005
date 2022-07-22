@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The final model.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fizel5.jpg
 uid: 1f324558-8c22-5652-1d38-c3de370f5344
 ---
 The final model. Image courtesy of MIT OCW.
-

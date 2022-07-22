@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Digital renderings.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fizel8.jpg
 uid: c6ec1a22-b85a-72b3-6596-79d7e3910916
 ---
 Digital renderings. Image courtesy of MIT OCW.
-

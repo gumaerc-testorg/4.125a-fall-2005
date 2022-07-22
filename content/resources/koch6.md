@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The final model.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: koch6.jpg
 uid: 33f99413-6f4b-d422-0930-cfc8270bd6fc
 ---
 The final model, showing how it incorporates its structure into the bridge. Image courtesy of MIT OCW.
-

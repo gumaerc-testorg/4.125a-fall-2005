@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The final model from the perspective of bridge travelers.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: koch8.jpg
 uid: ab65827c-8c7a-606a-5b9c-5c0ba1ea9f75
 ---
 The final model from the perspective of bridge travelers. Image courtesy of MIT OCW.
-

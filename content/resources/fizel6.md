@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A final detail showing the curving stairway.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: fizel6.jpg
 uid: 579703ff-4577-eeb9-836b-382bc5d9260f
 ---
 A final detail showing the curving stairway. Image courtesy of MIT OCW.
-

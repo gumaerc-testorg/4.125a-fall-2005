@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: The third floor plan.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: davila7.jpg
 uid: 5395bfdd-fca7-23bc-7517-3772845ef2c6
 ---
 The third floor plan. Image courtesy of MIT OCW.
-

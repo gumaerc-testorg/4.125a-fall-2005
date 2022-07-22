@@ -6,6 +6,7 @@ file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/3645e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn3.pdf
 uid: 3645e28a-6ba5-a735-3b1e-69bd62c67945
 ---
 This resource includes information on Selected assignments from the class A Private Place Amongst Scholars.
-

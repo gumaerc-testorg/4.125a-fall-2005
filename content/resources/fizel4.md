@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A sketch model of the tectonics of the project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fizel4.jpg
 uid: 09fd9862-3c77-7780-cf49-d80af8f92200
 ---
 A sketch model of the tectonics of the project. Image courtesy of MIT OCW.
-

@@ -7,6 +7,7 @@ file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/8fa77
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: assignment6.pdf
 uid: 8fa7702a-ca0d-d5d5-1b50-41114b8f21bd
 ---
 The program that would satisfy your needs and bring people together in the community. We design a building that will be a "coming together" celebration and can help achieve peace.
-

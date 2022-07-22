@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A longer view of the final model.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: koch7.jpg
 uid: 10bf1091-3b86-95e6-f3c7-c5d262a4656f
 ---
 A longer view of the final model. Image courtesy of MIT OCW.
-

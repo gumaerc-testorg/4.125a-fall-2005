@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Program spaces start to take form.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: davila3.jpg
 uid: f2ef9566-197d-9124-f08d-616dc333c00a
 ---
 Program spaces start to take form. Image courtesy of MIT OCW.
-

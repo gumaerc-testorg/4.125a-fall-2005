@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Junk model.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Jenna Fizel
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: fizel3.jpg
 uid: 4a4897f0-e474-4b25-9ebe-d4c88e1ca591
 ---
 A junk model, made from found objects, showing how the space might work. Image courtesy of MIT OCW.
-

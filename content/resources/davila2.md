@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A second model showing a more definite arrangment.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: davila2.jpg
 uid: 32cc3c51-7fa8-afa8-2777-6ad71b980e63
 ---
 A second model showing a more definite arrangment. Image courtesy of MIT OCW.
-

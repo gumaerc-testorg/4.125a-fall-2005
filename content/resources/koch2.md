@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Sections of the final project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: koch2.jpg
 uid: 7d36ed20-79e0-4cb3-9433-65d036ecebf7
 ---
 Sections of the final project. Image courtesy of MIT OCW.
-

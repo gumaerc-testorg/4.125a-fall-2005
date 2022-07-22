@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Final review layout.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: koch1.jpg
 uid: bcca3fdf-4f97-d52d-3fb1-c10972ac31fe
 ---
 The final review layout, including models and drawings from throughout the semester. Image courtesy of MIT OCW.
-

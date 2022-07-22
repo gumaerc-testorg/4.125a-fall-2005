@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A site study for the final project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: koch3.jpg
 uid: e15d9e75-1472-14cb-7e25-d8a701001209
 ---
 A site study for the final project. Image courtesy of MIT OCW.
-

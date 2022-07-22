@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Hand drawn sections of the project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: davila8.jpg
 uid: 731c1dec-2fb1-0563-14dc-6c5acfbb99ec
 ---
 Hand drawn sections of the project. Image courtesy of MIT OCW.
-

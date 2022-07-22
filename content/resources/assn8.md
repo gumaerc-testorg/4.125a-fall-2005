@@ -6,6 +6,7 @@ file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/f53fb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assn8.pdf
 uid: f53fbed5-cc66-1a99-458c-c943f7a42990
 ---
 This resource includes information on selected assignments from the class A Gathering Place for Scholars.
-

@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: Plans of the final project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: koch4.jpg
 uid: ff0cff05-1a31-be32-7b09-f3cd37ec4b30
 ---
 Plans of the final project, showing how the spaces relate to the bridge and each other. Image courtesy of MIT OCW.
-

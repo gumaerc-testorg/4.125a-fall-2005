@@ -5,6 +5,7 @@ file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/49b9c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assignment1.pdf
 uid: 49b9c4b1-0688-ee5d-466f-5450c88dfcca
 ---
 Discusses on topics Clues and References, Making a Design.
-

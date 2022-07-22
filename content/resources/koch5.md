@@ -8,6 +8,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A model of the individual space project.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Timothy Koch
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: koch5.jpg
 uid: 9afd17ed-6b6d-b6e4-21d2-1ff3fea9c1dd
 ---
 A model of the individual space project. Image courtesy of MIT OCW.
-

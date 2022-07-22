@@ -9,6 +9,7 @@ image_metadata:
   credit: Image courtesy of MIT OCW.
   image-alt: A junk model, made from found objects, starts to define the spac
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Ricardo Davila
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: davila1.jpg
 uid: cd6e5ebc-4581-22f3-214c-661b80bce098
 ---
 A junk model, made from found objects, starts to define the space. Image courtesy of MIT OCW.
-
