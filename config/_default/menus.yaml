@@ -15,3 +15,18 @@ leftnav:
   name: Projects
   url: /pages/projects/
   weight: 40
+- identifier: 0d78af57-d4a5-e3fe-941f-443cf19e1d7e
+  name: Ricardo Davila
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  url: /pages/projects/ricardo-davila
+  weight: 10
+- identifier: 6ee1ca07-072f-8a7f-5815-1333a87a1cbc
+  name: Jenna Fizel
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  url: /pages/projects/jenna-fizel
+  weight: 20
+- identifier: 29c7d6cc-ad5b-72a9-1a47-4b869e37c707
+  name: Timothy Koch
+  parent: 208f6e88-a0cc-4592-832f-e3566d1ecc4d
+  url: /pages/projects/timothy-koch
+  weight: 30
