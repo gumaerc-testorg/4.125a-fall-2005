@@ -21,7 +21,7 @@ One of the projects of the studio this semester was the designing and building o
 {{< image-gallery-item href="07edacbbee50089dd0df9ff855f80663_6.jpg" data-ngdesc="The team installs the shelter in the display space in Lobby 7. Image courtesy of Donna Coveney." text="The team installs the shelter in the display space in Lobby 7." >}}  
 {{< image-gallery-item href="1aad374ff3c0ffc66e64c51bb5aa668a_7.jpg" data-ngdesc="Transporting the shelters from the studio to Lobby 7, in very real and harsh conditions. Image courtesy of Donna Coveney." text="Transporting the shelters from the studio to Lobby 7, in very real and harsh conditions." >}}  
 {{< image-gallery-item href="3395b5731cbc011e446b34a197ecbf67_8.jpg" data-ngdesc="One of the shelters also served a double purpose as a flotation device. Image courtesy of Donna Coveney." text="One of the shelters also served a double purpose as a flotation device." >}}  
-{{}} 
+{{</ image-gallery >}}
 
 The other projects for the semester included designing a performance space in a quarry, an individual place, and the final project, a coming together place. Those projects are shown here from a number of students. All work is courtesy of the students named and used with permission.
 
