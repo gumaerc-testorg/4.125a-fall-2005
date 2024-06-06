@@ -3,6 +3,7 @@ content_type: resource
 description: The final model, showing how it incorporates its structure into the bridge.
   Image courtesy of MIT OCW.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/33f994136f4bd4220930cfc8270bd6fc_koch6.jpg
+file_size: 47510
 file_type: image/jpeg
 image_metadata:
   caption: The final model, showing how it incorporates its structure into the bridge.

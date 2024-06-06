@@ -2,6 +2,7 @@
 content_type: resource
 description: Sections of the final project. Image courtesy of MIT OCW.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/7d36ed2079e04cb3943365d036ecebf7_koch2.jpg
+file_size: 51737
 file_type: image/jpeg
 image_metadata:
   caption: Sections of the final project.

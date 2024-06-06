@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on Selected assignments from the class
   A Private Place Amongst Scholars.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/3645e28a6ba5a7353b1e69bd62c67945_assn3.pdf
+file_size: 21770
 file_type: application/pdf
 learning_resource_types:
 - Assignments

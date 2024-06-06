@@ -2,6 +2,7 @@
 content_type: resource
 description: Digital plans. Image courtesy of MIT OCW.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ddfa5388bd199de32e96eb8af6a93597_fizel7.jpg
+file_size: 63536
 file_type: image/jpeg
 image_metadata:
   caption: Digital plans.
