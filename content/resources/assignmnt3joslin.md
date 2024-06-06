@@ -8,6 +8,7 @@ description: One of the major forces shaping our world today is the phenomena of
   and 3) the reorganization of the work force to take advantage of the opportunities
   and challenges these changes produce.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/0f9807c800378aa34d32e6028636d2c5_assignmnt3joslin.pdf
+file_size: 29250
 file_type: application/pdf
 learning_resource_types:
 - Assignments
