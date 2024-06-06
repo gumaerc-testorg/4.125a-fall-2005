@@ -2,6 +2,7 @@
 content_type: resource
 description: The final model. Image courtesy of MIT OCW.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/1f3245588c2256521d38c3de370f5344_fizel5.jpg
+file_size: 58687
 file_type: image/jpeg
 image_metadata:
   caption: The final model.

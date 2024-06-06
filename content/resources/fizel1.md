@@ -3,6 +3,7 @@ content_type: resource
 description: All the work of the semester is presented at the final review. Image
   courtesy of MIT OCW.
 file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/a373b6448aff1867490edbc050ede6a5_fizel1.jpg
+file_size: 55381
 file_type: image/jpeg
 image_metadata:
   caption: All the work of the semester is presented at the final review.
