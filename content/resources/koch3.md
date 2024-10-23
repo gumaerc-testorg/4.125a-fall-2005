@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A site study for the final project. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/e15d9e75147214cb7e25d8a701001209_koch3.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/e15d9e75147214cb7e25d8a701001209_koch3.jpg
 file_size: 52330
 file_type: image/jpeg
 image_metadata:
