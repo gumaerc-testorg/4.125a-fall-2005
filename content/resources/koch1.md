@@ -2,7 +2,7 @@
 content_type: resource
 description: The final review layout, including models and drawings from throughout
   the semester. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/bcca3fdf4f97d52d3fb1c10972ac31fe_koch1.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/bcca3fdf4f97d52d3fb1c10972ac31fe_koch1.jpg
 file_size: 51473
 file_type: image/jpeg
 image_metadata:

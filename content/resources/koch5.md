@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A model of the individual space project. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/9afd17ed6b6db6e421d21ff3fea9c1dd_koch5.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/9afd17ed6b6db6e421d21ff3fea9c1dd_koch5.jpg
 file_size: 48826
 file_type: image/jpeg
 image_metadata:

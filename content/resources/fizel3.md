@@ -2,7 +2,7 @@
 content_type: resource
 description: A junk model, made from found objects, showing how the space might work.
   Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/4a4897f0e4744b259ebed4c88e1ca591_fizel3.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/4a4897f0e4744b259ebed4c88e1ca591_fizel3.jpg
 file_size: 43562
 file_type: image/jpeg
 image_metadata:

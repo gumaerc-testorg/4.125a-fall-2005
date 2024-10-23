@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on Selected assignments from the class
   including the theme, programe, and the schedule.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/2e34049b4c1476de2f96f891965b8472_assn2.pdf
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/2e34049b4c1476de2f96f891965b8472_assn2.pdf
 file_size: 23455
 file_type: application/pdf
 learning_resource_types:
