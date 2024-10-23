@@ -2,7 +2,7 @@
 content_type: resource
 description: Plans of the final project, showing how the spaces relate to the bridge
   and each other. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ff0cff051a31be327b09f3cd37ec4b30_koch4.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ff0cff051a31be327b09f3cd37ec4b30_koch4.jpg
 file_size: 52035
 file_type: image/jpeg
 image_metadata:

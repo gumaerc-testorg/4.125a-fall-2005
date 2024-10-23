@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A final detail showing the curving stairway. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/579703ff4577eeb9836b382bc5d9260f_fizel6.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/579703ff4577eeb9836b382bc5d9260f_fizel6.jpg
 file_size: 56421
 file_type: image/jpeg
 image_metadata:
