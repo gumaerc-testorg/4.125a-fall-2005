@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on selected assignments from the class
   A Private Place Amongst Scholars.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/4450f3ce4460dc5e3bd33e3263138de7_assn4.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/4450f3ce4460dc5e3bd33e3263138de7_assn4.pdf
 file_size: 19365
 file_type: application/pdf
 learning_resource_types:

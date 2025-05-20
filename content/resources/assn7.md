@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on selected assignments from the class
   A Gathering Place for Scholars.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ffb2c5daf05570722396d251e536a28d_assn7.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ffb2c5daf05570722396d251e536a28d_assn7.pdf
 file_size: 16746
 file_type: application/pdf
 learning_resource_types:

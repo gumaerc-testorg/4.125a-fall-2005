@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/5a9bbb42701a8f2ba591d3f032cd3f33_assignment3wampler.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/5a9bbb42701a8f2ba591d3f032cd3f33_assignment3wampler.pdf
 file_size: 20498
 file_type: application/pdf
 learning_resource_types:

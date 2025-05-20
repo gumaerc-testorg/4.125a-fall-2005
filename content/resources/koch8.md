@@ -2,7 +2,7 @@
 content_type: resource
 description: The final model from the perspective of bridge travelers. Image courtesy
   of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ab65827c8c7a606a5b9c5c0ba1ea9f75_koch8.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/ab65827c8c7a606a5b9c5c0ba1ea9f75_koch8.jpg
 file_size: 47846
 file_type: image/jpeg
 image_metadata:
