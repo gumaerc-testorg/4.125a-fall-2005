@@ -2,7 +2,7 @@
 content_type: resource
 description: A sketch model of the tectonics of the project. Image courtesy of MIT
   OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/09fd98623c777780cf49d80af8f92200_fizel4.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/09fd98623c777780cf49d80af8f92200_fizel4.jpg
 file_size: 41459
 file_type: image/jpeg
 image_metadata:

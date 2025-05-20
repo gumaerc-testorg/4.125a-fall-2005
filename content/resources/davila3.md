@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Program spaces start to take form. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/f2ef9566197d9124f08d616dc333c00a_davila3.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/f2ef9566197d9124f08d616dc333c00a_davila3.jpg
 file_size: 41060
 file_type: image/jpeg
 image_metadata:

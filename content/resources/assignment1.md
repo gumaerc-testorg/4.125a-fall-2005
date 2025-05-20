@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Discusses on topics Clues and References, Making a Design.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/49b9c4b10688ee5d466f5450c88dfcca_assignment1.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/49b9c4b10688ee5d466f5450c88dfcca_assignment1.pdf
 file_size: 24251
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A detail model showing how the spaces and structure relate to the bridge.
   Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/c2700302ac125126b1d4a3430f5a0c31_davila4.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/c2700302ac125126b1d4a3430f5a0c31_davila4.jpg
 file_size: 56849
 file_type: image/jpeg
 image_metadata:

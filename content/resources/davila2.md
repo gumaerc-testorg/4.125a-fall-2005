@@ -2,7 +2,7 @@
 content_type: resource
 description: A second model showing a more definite arrangment. Image courtesy of
   MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/32cc3c517fa8afa827776ad71b980e63_davila2.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/32cc3c517fa8afa827776ad71b980e63_davila2.jpg
 file_size: 40369
 file_type: image/jpeg
 image_metadata:
