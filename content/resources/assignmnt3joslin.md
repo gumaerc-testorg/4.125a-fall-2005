@@ -7,7 +7,7 @@ description: One of the major forces shaping our world today is the phenomena of
   information, and mastery of complex processes by compact organizations and/or individuals,
   and 3) the reorganization of the work force to take advantage of the opportunities
   and challenges these changes produce.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/0f9807c800378aa34d32e6028636d2c5_assignmnt3joslin.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/0f9807c800378aa34d32e6028636d2c5_assignmnt3joslin.pdf
 file_size: 29250
 file_type: application/pdf
 learning_resource_types:

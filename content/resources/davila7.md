@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The third floor plan. Image courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/5395bfddfca723bc75173772845ef2c6_davila7.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/5395bfddfca723bc75173772845ef2c6_davila7.jpg
 file_size: 42021
 file_type: image/jpeg
 image_metadata:

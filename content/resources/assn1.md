@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on selected assignments from the class
   including Clues and References and Making a Design.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/6c4f73df7d63552551833e89f13c3a40_assn1.pdf
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/6c4f73df7d63552551833e89f13c3a40_assn1.pdf
 file_size: 23700
 file_type: application/pdf
 learning_resource_types:

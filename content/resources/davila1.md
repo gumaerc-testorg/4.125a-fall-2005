@@ -2,7 +2,7 @@
 content_type: resource
 description: A junk model, made from found objects, starts to define the space. Image
   courtesy of MIT OCW.
-file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/cd6e5ebc458122f3214c661b80bce098_davila1.jpg
+file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/cd6e5ebc458122f3214c661b80bce098_davila1.jpg
 file_size: 41078
 file_type: image/jpeg
 image_metadata:
