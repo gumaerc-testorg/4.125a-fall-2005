@@ -2,7 +2,7 @@
 content_type: resource
 description: The final model showing how the project occupies the bridge. Image courtesy
   of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/fce100b2e14648bc536fb6697739db12_davila5.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/fce100b2e14648bc536fb6697739db12_davila5.jpg
 file_size: 59749
 file_type: image/jpeg
 image_metadata:
