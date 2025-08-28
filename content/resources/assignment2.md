@@ -4,7 +4,7 @@ description: Two serious predicaments, expanding daily, currently plaque our soc
   1) the lack of affordable housing and protection for those people falling out of
   the security of our economic system, and 2) the overabundance of waste flowing from
   an economic system of disposable consumption.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/675c4a17382eb028e39ff9c4283ab075_assignment2.pdf
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/675c4a17382eb028e39ff9c4283ab075_assignment2.pdf
 file_size: 29861
 file_type: application/pdf
 learning_resource_types:

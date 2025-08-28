@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hand drawn sections of the project. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/731c1dec2fb1056314dc6c5acfbb99ec_davila8.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/731c1dec2fb1056314dc6c5acfbb99ec_davila8.jpg
 file_size: 40618
 file_type: image/jpeg
 image_metadata:
