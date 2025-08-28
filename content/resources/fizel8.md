@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Digital renderings. Image courtesy of MIT OCW.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/c6ec1a22b85a72b3659679d7e3910916_fizel8.jpg
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/c6ec1a22b85a72b3659679d7e3910916_fizel8.jpg
 file_size: 48008
 file_type: image/jpeg
 image_metadata:

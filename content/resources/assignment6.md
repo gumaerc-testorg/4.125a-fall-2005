@@ -3,7 +3,7 @@ content_type: resource
 description: The program that would satisfy your needs and bring people together in
   the community. We design a building that will be a "coming together" celebration
   and can help achieve peace.
-file: /courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/8fa7702aca0dd5d51b5041114b8f21bd_assignment6.pdf
+file: /ol-ocw-studio-app/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/8fa7702aca0dd5d51b5041114b8f21bd_assignment6.pdf
 file_size: 20180
 file_type: application/pdf
 learning_resource_types:
